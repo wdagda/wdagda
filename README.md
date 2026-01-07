@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm wdagda an Informatics student learning how to make something.
 
+
+(tbh, i enjoy record sum music more than writing code xd)
+
 <!--
 **wdagda/wdagda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
